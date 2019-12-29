@@ -33,7 +33,7 @@ END_MESSAGE_MAP()
 CgithubT1View::CgithubT1View() noexcept
 {
 	// TODO: 在此处添加构造代码
-
+	char *str = "hello";
 }
 
 CgithubT1View::~CgithubT1View()
